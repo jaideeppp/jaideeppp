@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Tour app
 - 🌱 I’m currently learning Node.js
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about React or any tech related stuff
 - 📫 How to reach me: Email- @jaideepphalswal12@gmail.com
 - 😄 Pronouns: He/His
