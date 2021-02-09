@@ -1,10 +1,17 @@
-<h1 align="center">Hi 👋, I'm Jaideep Phalswal</h1>
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="350" />
+  
+<h1 align="left">Hi 👋, I'm Jaideep Phalswal</h1>
+
+
 
 - 🔭 I’m currently working on Tour app
 - 🌱 I’m currently learning Node.js
 - 💬 Ask me about C++,JavaScript, React or any tech related stuff
 - 📫 How to reach me: Email- @jaideepphalswal12@gmail.com
 - 😄 Pronouns: He/His
+
+
+
 ### Languages and Tools:
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank">
