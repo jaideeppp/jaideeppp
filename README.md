@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on Tour app
-- 🌱 I’m currently learning Node.js
-- 💬 Ask me about C++,JavaScript, React or any tech related stuff
+- 🔭 I’m currently working on my blog website
+- 🌱 I’m currently learning Next.js
+- 💬 Ask me about C++,JavaScript, React, Node or any tech related stuff
 - 📫 How to reach me: Email- @jaideepphalswal12@gmail.com
 - 😄 Pronouns: He/His
 
