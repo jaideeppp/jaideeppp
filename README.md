@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on my blog website
+- 🔭 I’m currently working with Glamplus.
 - 🌱 I’m currently learning Next.js
-- 💬 Ask me about C++,JavaScript, React, Node or any tech related stuff
+- 💬 Ask me about C++,JavaScript, React, Node, React-native or any tech related stuff
 - 📫 How to reach me: Email- @jaideepphalswal12@gmail.com
 - 😄 Pronouns: He/His
 
